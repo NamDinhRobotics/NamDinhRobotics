@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NamDinhRobotics
 - 👀 I’m interested in AI-Robotis, SLAM, motion planning and optimal control system
 - 🌱 I’m currently learning learning-based state estimation system/
-- 💞️ I’m looking to collaborate on SLAM and motion planning 
+- 💞️ I’m looking to collaborate on SLAM, motion planning and control system
 - 📫 Please reach me by email: quangnam.auto.tech@gmail.com
 
 <!---
